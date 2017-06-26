@@ -1,0 +1,18 @@
+.brd {
+    border: 2px dashed #000;
+    width: 390px;
+    font-size: 20px;
+    padding-bottom: 10px;
+    line-height: 1.5;
+    padding-left: 2px;
+}
+span  {
+    font-size: 15px;
+}
+sub {
+    font-size: 15px;
+}
+sup {
+    font-size: 15px;
+
+}
