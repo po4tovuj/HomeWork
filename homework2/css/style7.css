@@ -1,18 +1,22 @@
-.brd {
+.border {
     border: 2px dashed #000;
-    width: 450px;
     font-size: 25px;
-    padding-bottom: 20px;
     line-height: 2;
+    padding-bottom: 20px;
+    padding-top: 0;
+    width: 450px;
 }
+
 span {
     font-size: 15px;
     line-height: 3;
 }
+
 sub {
     color: #00F;
     font-size: 15px;
 }
+
 sup {
     color: #F00;
     font-size: 15px;
